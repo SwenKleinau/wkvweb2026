@@ -13,7 +13,7 @@ export default function Home({ title }: { title: string }) {
                             href="/"
                             className="text-lg font-semibold text-gray-800 hover:text-blue-600"
                         >
-                            WKV e.V.
+                            Wolmirstedter Kanu-Verein e.V.
                         </Link>
 
                         <Link
